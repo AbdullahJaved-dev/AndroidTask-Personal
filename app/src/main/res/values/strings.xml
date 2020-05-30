@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="empty_list">No Users Found</string>
+    <string name="an_error_occurred">An Error occoured</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBiJmne4IHQ74-LyAbqzEYExXjHOcbaOjI</string>
+
+
+</resources>
