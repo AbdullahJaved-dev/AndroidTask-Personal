@@ -25,7 +25,7 @@ allprojects {
 }
 
 task clean(type: Delete) {
-    delete rootProject.buildDir
+    delete rootProject
 }
 ext {
 
@@ -51,7 +51,7 @@ ext {
     retrofit2='2.6.0'
     gson='2.6.0'
     okhttp3='4.0.1'
-    glideVersion='4.9.0'
+    glideVersion='4.11.0'
 
     coroutinesVersion = '1.3.0'
     lifecycleKtxVersion = '2.2.0'
